@@ -1,0 +1,33 @@
+.fruits{
+  background-color: orange;
+  border: 2px;solid-color: blue;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  font-family: Algerian, fantasy;
+}
+.cars{
+  background-color: aqua;
+  border:2px;solid-color: black;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  font-family: "Bauhaus 93", fantasy;
+}
+.FRUITS{
+  background-color: darkviolet;
+  border: 2px blueviolet;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  font-family: "Century Gothic", fantasy;
+}
+#computer{
+  background-color:grey;
+  border: 2px;solid-color: black;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  font-family: "Bauhaus 93", fantasy;
+}
+

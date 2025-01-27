@@ -1,0 +1,22 @@
+h2{
+  color: lime;
+  text-align: center;
+  font:sans-serif;
+  font-size:35px ;
+}
+
+
+table{
+  width: 100%;
+  border-collapse:collapse ;
+}
+td,th{
+  border: 2px solid crimson;
+  padding: 10px;
+}
+p{
+  font-family: Algerian;
+  color:darkblue;
+  font-size: 15px;
+
+}
